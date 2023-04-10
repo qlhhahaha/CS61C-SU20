@@ -28,7 +28,7 @@ PPT链接：CS61C https://www.aliyundrive.com/s/iGNMDuVKRV2 提取码: 5h8k 点�
 
 第二个是用riscv实现一个神经网络识别mnist手写数字（仅前向，无back propagation），用汇编写神经网络，相当之炸裂；
 
-第三个是用可视化软件搭一个5段流水cpu，没做，可参考[这个repo][https://github.com/haohuaijin/CS61C]；
+第三个是用可视化软件搭一个5段流水cpu，没做，可参考[这个repo](https://github.com/haohuaijin/CS61C)；
 
 第四个是用 OpenMP, SIMD 等方法并行优化矩阵运算，实现一个简易的 Numpy，也没做，并且网上普遍不推荐做，好像有什么bug
 
